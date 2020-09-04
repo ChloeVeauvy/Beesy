@@ -1,2 +1,5 @@
 # Beesy
 Smart task &amp; project management software to improve teamwork Easy Manage your meeting, tasks, Projects &amp; Teamwork with the best online collaborative platform Beesy (Web, iPad and iPhone) and its smart assistant
+Beesy is a collaborative solution with an artificial intelligence to help teams improve their daily productivity: Beesy consolidates all your data in one place from all your daily tools to STRUCTURE and PILOT your objectives and WIN up to 1 day per week. WITH BEESY, Gain in productivity on your ACTIVITY management : - Meetings management - Projects and goals management - Activity progress reporting - Team management - Working in collaborative mode - Mailbox management
+
+Beesy is a MICROSOFT certified solution. Beesy is integrated with Microsoft to enhance the Office 365 experience, without changing users’ daily environment and habits : A smart assistant 100% integrated to Teams Consolidation of all information from the different tools and management of all activities and co-workers, without changing the environment MICROSOFT OFFICE 365 We are Microsoft for startup partners and Co-sell Ready Microsoft
